@@ -53,7 +53,7 @@ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ![Dashboard Overview](images/Dashboard_Overview.png)
 
-![Market Share & Ratings](images/Market_Share_Ratings.png)
+![Market Share & Ratings](images/Market_Share_&_Ratings.png)
 
 ![Seasonality & Trust](images/Seasonality_&_Trust.png)
 
