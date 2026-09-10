@@ -51,14 +51,14 @@ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ## 🖼️ Dashboard
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
 
-![Market Share & Ratings](images/market-share-ratings.png)
+![Market Share & Ratings](images/Market_Share_Ratings.png)
 
-![Seasonality & Trust](images/seasonality-trust.png)
+![Seasonality & Trust](images/Seasonality_&_Trust.png)
 
 ## 👤 Author
 
 **Komail Butt**
 
-[LinkedIn]((https://linkedin.com/in/komail-butt)) · [Portfolio]((https://komailbutt.github.io/))
+[LinkedIn](https://linkedin.com/in/komail-butt) · [Portfolio](https://komailbutt.github.io/)
