@@ -49,7 +49,7 @@ Airbnb Listings & Reviews dataset — Maven Analytics
 
 https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
-## 🖼️ Dashboard
+## 🖼️ Dashboards
 
 ![Dashboard Overview](images/Dashboard_Overview.png)
 
