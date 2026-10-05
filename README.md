@@ -1,61 +1,67 @@
 # Global Airbnb Real Estate Performance Dashboard
 
-An interactive **Power BI dashboard** for analyzing real-estate market performance across major Airbnb markets.
+An interactive **Power BI dashboard** designed to analyze Airbnb performance across major cities, focusing on listings, property types, new listing trends, and customer ratings.
 
-## 🎯 Business Problem
+The project demonstrates an end-to-end **data analytics workflow**, from dataset exploration and data cleaning to data modeling, DAX measures, visualization, and dashboard storytelling.
 
-Real-estate and property-market data can contain a large number of listings, properties, hosts, prices, reviews and performance indicators. Without a centralized analytical view, it can be difficult to:
+---
 
-- Compare property markets across different cities
-- Understand differences in property types and pricing
-- Identify changes in listing and market activity
-- Evaluate property performance through ratings and reviews
-- Identify seasonal patterns and market trends
-- Assess host activity and trust indicators
+## 📊 Dashboard Preview
 
-## 💡 Solution
+### Overview
 
-This dashboard transforms the underlying Airbnb listing and review data into an **interactive business intelligence solution**.
+![Global Airbnb Performance Dashboard](Overview.png)
 
-It provides a centralized view of key **property and market KPIs**, allowing users to explore performance by city, property type and time period.
+The Overview page provides a high-level view of Airbnb performance, including:
 
-The dashboard enables users to:
+- Total Listings
+- Number of Cities
+- Number of Hosts
+- Property Types
+- Total Reviews
+- New Listing trends by property type
 
-- Monitor listing growth and market development
-- Compare **market share and average prices** across cities and property types
-- Evaluate ratings and review performance
-- Analyze **seasonality and review activity**
-- Explore host verification and trust indicators
-- Drill into detailed market-level performance
+---
 
-This allows complex real-estate data to be converted into **clear, actionable insights for market comparison and data-driven decision-making**.
+### Ratings Analysis
 
-## 📊 Key Analysis
+![Airbnb Ratings Dashboard](Ratings.png)
 
-- Listing Growth & Market Development
-- Market Share & Pricing
-- Property Type Performance
-- Ratings & Reviews
-- Seasonality
-- Host Activity & Trust
+The Ratings section analyzes Airbnb performance based on:
 
-## 🛠️ Tools
+- Accuracy
+- Cleanliness
+- Communication
+- Location
+- Overall Rating
 
-**Power BI | Power Query | DAX | Data Modeling | Data Visualization**
+Users can switch between **Overall Rating** and **Detailed Rating** views to explore city-level performance.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project was to build an interactive dashboard that answers key business questions around Airbnb's global performance.
+
+The dashboard helps identify:
+
+- Which cities have the highest and lowest ratings?
+- How have new Airbnb listings changed over time?
+- Which property types contribute most to new listings?
+- Which cities perform best across detailed rating categories?
+- How do cities compare based on overall customer satisfaction?
+
+---
 
 ## 📂 Dataset
 
-Airbnb Listings & Reviews dataset — Maven Analytics
+The dataset used for this project is the **Airbnb Listings & Reviews** dataset from Maven Analytics Data Playground.
 
-https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+**Source:**  
+[Airbnb Listings & Reviews Dataset – Maven Analytics](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
 
-## 🖼️ Dashboards
+The dataset contains information related to Airbnb listings, hosts, property types, reviews, ratings, locations, and other listing attributes.
 
-![Dashboard Overview](images/Dashboard_Overview.png)
-
-![Market Share & Ratings](images/Market_Share_&_Ratings.png)
-
-![Seasonality & Trust](images/Seasonality_&_Trust.png)
 
 ## 👤 Author
 
